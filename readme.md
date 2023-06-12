@@ -6,9 +6,9 @@
 
 This looks like this:
 
-![Alt text](<Screenshot (135).png>)
-![Alt text](<Screenshot (136).png>)
-![Alt text](<Screenshot (137).png>)
-![Alt text](<Screenshot (138).png>)
-![Alt text](<Screenshot (139).png>)
+![Alt text](![Screenshot (135)](https://github.com/prve17/ShopIT/assets/64846153/fe47b653-33ad-4c73-a043-8a298e272240))
+![Alt text](![Screenshot (136)](https://github.com/prve17/ShopIT/assets/64846153/e17e0fa6-2951-4011-a6cc-7e2e6da2c1b7))
+![Alt text](![Screenshot (137)](https://github.com/prve17/ShopIT/assets/64846153/10bd15b5-b6e8-48aa-8e5d-c3a82bb1b388))
+![Alt text](![Screenshot (138)](https://github.com/prve17/ShopIT/assets/64846153/148b67ab-a273-4561-bd06-b7b3f71c72c7))
+![Alt text](![Screenshot (139)](https://github.com/prve17/ShopIT/assets/64846153/e92d8749-378f-4ccf-b527-64f05011fa2f))
 
